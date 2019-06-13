@@ -8,7 +8,7 @@ package shapes;
 
 /**
  *
- * @author mike
+ * @author Mike nelsonm25@csp.edu
  */
 public class Rectangle implements IShape {
     private double height;
